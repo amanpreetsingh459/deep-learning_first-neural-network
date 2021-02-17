@@ -5,7 +5,7 @@ ipykernel==4.5.2
 ipython==5.1.0
 ipython-genutils==0.1.0
 ipywidgets==5.2.2
-Jinja2==2.9.4
+Jinja2>2.9.4
 jsonschema==2.5.1
 jupyter==1.0.0
 jupyter-client==4.4.0
@@ -13,10 +13,10 @@ jupyter-console==5.0.0
 jupyter-core==4.2.1
 MarkupSafe==0.23
 matplotlib==2.0.0
-mistune==0.7.3
+mistune>0.7.3
 nbconvert==4.2.0
 nbformat==4.2.0
-notebook==4.3.1
+notebook>4.3.1
 numpy==1.11.3
 pandas==0.19.2
 path.py==0.0.0
